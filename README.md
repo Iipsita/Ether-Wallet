@@ -4,4 +4,4 @@
 
 ### project images 
 
-![Eth-Wallet](https://github.com/subhenduKarma001/Ether-Wallet/blob/main/images/img%201.png)
+![Eth-Wallet](https://github.com/subhenduKarma001/Ether-Walllet/blob/main/images/ss.png)
